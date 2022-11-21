@@ -1,7 +1,7 @@
 {
   "name": "deploy",
   "version": "0.1.0",
-  "homepage": "https://github.com/usman-babar/Deployment.git",
+  "homepage": "https://usman-babar.github.io/Deployment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
